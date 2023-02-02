@@ -7,3 +7,4 @@ before_install:
 
 script:
   - docker run  mohdjishin/react-docker npm run test -- -- coverage 
+
