@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Docker pro
+        git action check
         </p>
         <a
           className="App-link"
