@@ -9,6 +9,8 @@ function App() {
         <p>
         git action check this out mahn
         </p>
+
+        <p>added by soori</p>
         <a
           className="App-link"
           href="https://reactjs.org"
